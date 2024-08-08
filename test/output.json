@@ -1,0 +1,2144 @@
+db.loads.bulkWrite([
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M168174",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 20987.98 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M166833",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 20652.44 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M166224",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 20652.44 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M166020",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 15520.52 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M167810",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 24142.79 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M167954",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 10405.81 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M165532",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 20987.98 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M167777",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 21296.63 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M168102",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 20655.08 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M165728",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 12469.33 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M160625",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 43525.81 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M168115",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 20987.98 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M168615",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 20216.37 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M164756",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 75781.61 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M166678",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 19947.4 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M166492",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 19476.49 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M165030",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 23780.13 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M164679",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 12189.34 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M164953",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 24140.59 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M164751",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 16349.46 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M167943",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 20987.98 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M164680",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 12189.34 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M168539",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 15674.85 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M167656",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 9047.76 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M166106",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 22222.57 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M168293",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 20216.37 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M166323",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 20216.37 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M164672",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 18152.84 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M166881",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 19907.72 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M167613",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 16587.56 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M167903",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 24142.79 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M166751",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 10374.94 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M165461",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 25383.99 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M166715",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 23754.78 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M167829",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 9316.72 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M164988",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 9814.97 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M166407",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 19476.49 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M165462",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 22222.57 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M165443",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 22222.57 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M168409",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 12381.15 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M168617",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 10075 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M168265",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 29875.47 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M165867",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 11640.39 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M168891",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 19440.34 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M167794",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 22222.57 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M168138",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 24140.59 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M167714",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 20987.98 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M165879",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 20692.56 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M165671",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 11640.39 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M167892",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 9471.05 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M165658",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 21299.94 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M166488",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 12189.34 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M168953",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 21296.63 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M165339",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 20216.37 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M166297",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 20987.98 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M166855",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 21869.17 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M164966",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 14490.53 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M165857",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 24140.59 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M164949",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 16349.46 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M169031",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 24140.59 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M165407",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 12469.33 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M165005",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 20216.37 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M166707",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 12118.8 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M166537",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 12539.88 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M165464",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 22222.57 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M165876",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 20692.56 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M164786",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 12469.33 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M164630",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 11372.31 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M164972",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 24140.59 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M164609",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 10374.94 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M167886",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 19476.49 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M167625",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 20057.85 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M164743",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 24140.59 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M160839",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 41953.92 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M168989",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 21283.4 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M165342",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 20216.37 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M164752",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 24140.59 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M167713",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 20987.98 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M167670",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 12930.1 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M167071",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 22222.57 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M164807",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 19907.72 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M164760",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 8963.98 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M168122",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 24140.59 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M168946",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 20987.98 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M160675",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 22050.61 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M164954",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 24140.59 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M166569",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 13933.2 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M164686",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 26682.52 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M164732",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 24140.59 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M167601",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 20987.98 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M166257",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 11789.21 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M167718",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 20987.98 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M167549",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 25909.36 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M165337",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 20216.37 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M165240",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 11125.84 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M165023",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 24140.59 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M164944",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 22157.09 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M167821",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 9471.05 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M164610",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 8684 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M166118",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 12469.33 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M164644",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 12539.88 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M167759",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 20481.27 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M164783",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 12480.35 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M167351",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 12469.33 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M168096",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 20987.98 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M166720",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 20987.98 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M160837",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 22667.9 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M168933",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 20987.98 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M164768",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 24140.59 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M164740",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 16349.46 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M164771",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 24140.59 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M167685",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 24140.59 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M166145",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 22222.57 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M165573",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 11349.38 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M165718",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 20987.98 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M165454",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 13042.53 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M164262",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 32593.1 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M164983",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 20216.37 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M164690",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 12539.88 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M164667",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 43611.79 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M167602",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 20987.98 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M168397",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 10242.66 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M169057",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 39022.13 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M164749",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 24140.59 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M166703",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 28322.75 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M164684",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 26539.22 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M164033",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 15569.03 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M168421",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 12469.33 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M165034",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 26720.02 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M164616",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 10374.94 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M164827",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 8684 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M168951",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 20987.98 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M165375",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 9047.76 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M164611",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 10374.94 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M166745",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 20987.98 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M161855",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 44513.48 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M164650",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 26052.41 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M167722",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 21296.63 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M165572",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 11349.38 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M168371",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 19907.72 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M168310",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 10066.52 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M167754",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 17559.8 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M167069",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 22222.57 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M166190",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 24140.59 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M166339",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 10242.66 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M168821",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 7142.97 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M169013",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 25489.82 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M165714",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 20987.98 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M164602",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 12469.33 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M165513",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 23751.25 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M166184",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 24140.59 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M165883",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 21446.54 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M167561",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 37349.13 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M167664",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 9047.76 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M165037",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 20441.24 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M165480",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 20756.5 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M168543",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 15674.85 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M164961",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 14490.53 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M164996",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 29875.47 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M165784",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 16247.87 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M167721",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 20987.98 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M167994",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 16587.56 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M165723",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 8963.98 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M165744",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 19030.28 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M165719",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 16247.87 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M167358",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 12469.33 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M169044",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 9047.76 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M166695",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 20216.37 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M164654",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 26052.41 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M164755",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 8963.98 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M166671",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 12892.62 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M167785",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 24762.29 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M167644",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 9471.05 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M167712",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 20987.98 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M166256",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 17788.64 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M165878",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 22703.18 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M166843",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 24140.59 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M165531",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 20987.98 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M165721",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 8963.98 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M166387",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 19476.49 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M165335",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 20216.37 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M164725",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 20216.37 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M167403",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 20987.98 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M165474",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 15846.81 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M164789",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 12469.33 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M165844",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 11372.31 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M165592",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 22222.57 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M167615",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 19312.47 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M167070",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 22222.57 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M161861",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 44815.52 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M164465",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 42714.51 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M164960",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 13960.76 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M165775",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 16587.56 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M168673",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 8963.98 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M167949",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 20987.98 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M167758",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 23396.35 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M166098",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 20216.37 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M166690",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 20636.43 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M165509",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 23243.31 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M164601",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 12323.83 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M164764",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 16247.87 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M164963",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 16508.19 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M165463",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 22222.57 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M165762",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 20441.24 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M166344",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 10242.66 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M164651",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 25110.51 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M164625",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 11596.3 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M166884",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 19907.72 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M165343",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 20216.37 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M165748",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 20987.98 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M167766",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 21296.63 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M168398",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 10242.66 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M168313",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 8963.98 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M167763",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 22222.57 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M164744",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 14490.53 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M167929",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 22222.57 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M167730",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 19907.72 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M160373",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 42356.22 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M164711",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 9817.17 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M168121",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 24140.59 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M167953",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 15522.73 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M167293",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 12469.33 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M167298",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 13669.97 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M167648",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 24140.59 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M166255",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 10032.56 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M168934",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 21208.44 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M164964",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 16349.46 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M168141",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 20987.98 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M168547",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 12469.33 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M167966",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 12189.34 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M168093",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 20987.98 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M164804",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 12480.35 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M168395",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 10242.66 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M169010",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 25489.82 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M166651",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 14281.53 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M164677",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 21574.41 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M167908",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 14656.64 } }
+    }
+  },
+  {
+    "updateOne": {
+      "filter": {
+        "reference_number": "DHE_M166143",
+        "carrier": ObjectId("60747b8448cb687a0f377e82")
+      },
+      "update": { "$set": { "items.0.weight": 22224.77 } }
+    }
+  }
+])

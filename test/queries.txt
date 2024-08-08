@@ -1,0 +1,1949 @@
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '011N6_E100008'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '011N6_M100001'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '011N6_M100002'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '011N6_M100003'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '011N6_M100004'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '011N6_M100005'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '011N6_M100006'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '011N6_M100007'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '011N6_M100009'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '011N6_M100010'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '011N6_M100011'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '011N6_M100012'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '011N6_M100013'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '011N6_M100014'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '029J7_M100001'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '029J7_M100002'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '05EAM_M100001'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '05EAM_M100002'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '05EAM_M100003'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '05EAM_M100004'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '05EAM_M100005'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '05GZA_E100002'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '05GZA_E100008'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '05GZA_E100015'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '05GZA_E100016'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '05GZA_E100017'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '05GZA_E100018'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '05GZA_E100019'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '05GZA_E100020'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '05GZA_M100001'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '05GZA_M100004'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '05GZA_M100005'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '05GZA_M100006'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '05GZA_M100007'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '05GZA_M100010'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '05GZA_M100011'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '05GZA_M100012'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '05GZA_M100013'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '05GZA_M100014'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '05GZA_R100003'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '05GZA_R100009'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '08EZ_M100027'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '08EZ_M100028'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '08EZ_M100029'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '08EZ_M100030'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '08EZ_M100031'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '08EZ_M100032'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '08LE100538'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '08LM100438'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '08LM100444'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '08LM100457'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '08LM100466'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '08LM100501'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '08LM100536'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '08LM100537'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '08LM100540'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '08LM100541'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '08LM100542'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '08LM100543'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '08LM100544'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '08LM100552'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '08LM100553'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '08LR100435'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '08LR100436'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '08LR100437'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '0AJ94_JAK_M100002'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '0AJ94_JAK_M100007'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '0AJ94_JAK_M100019'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '0AJ94_JAK_M100020'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '0AJ94_JAK_M100021'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '0AJ94_JAK_M100047'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '0AJ94_JAK_M100081'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '0AJ94_JDS_M100084'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '0AJ94_QWE_M100005'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '0AJ94_QWE_M100006'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '0AJ94_QWE_M100022'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '0AJ94_QWE_M100024'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '0AJ94_TER_E100054'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '0AJ94_TER_E100065'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '0AJ94_TER_E100070'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '0AJ94_TER_E100072'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '0AJ94_TER_E100073'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '0AJ94_TER_E100075'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '0AJ94_TER_M100001'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '0AJ94_TER_M100003'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '0AJ94_TER_M100008'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '0AJ94_TER_M100011'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '0AJ94_TER_M100012'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '0AJ94_TER_M100014'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '0AJ94_TER_M100016'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '0AJ94_TER_M100017'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '0AJ94_TER_M100018'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '0AJ94_TER_M100023'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '0AJ94_TER_M100025'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '0AJ94_TER_M100027'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '0AJ94_TER_M100029'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '0AJ94_TER_M100031'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '0AJ94_TER_M100033'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '0AJ94_TER_M100035'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '0AJ94_TER_M100036'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '0AJ94_TER_M100038'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '0AJ94_TER_M100041'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '0AJ94_TER_M100043'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '0AJ94_TER_M100044'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '0AJ94_TER_M100045'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '0AJ94_TER_M100046'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '0AJ94_TER_M100048'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '0AJ94_TER_M100050'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '0AJ94_TER_M100051'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '0AJ94_TER_M100052'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '0AJ94_TER_M100053'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '0AJ94_TER_M100055'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '0AJ94_TER_M100056'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '0AJ94_TER_M100057'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '0AJ94_TER_M100058'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '0AJ94_TER_M100059'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '0AJ94_TER_M100060'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '0AJ94_TER_M100061'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '0AJ94_TER_M100062'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '0AJ94_TER_M100063'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '0AJ94_TER_M100064'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '011N6_E100008'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '011N6_M100001'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '011N6_M100002'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '011N6_M100003'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '011N6_M100004'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '011N6_M100005'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '011N6_M100006'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '011N6_M100007'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '011N6_M100009'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '011N6_M100010'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '011N6_M100011'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '011N6_M100012'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '011N6_M100013'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '011N6_M100014'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '029J7_M100001'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '029J7_M100002'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '05EAM_M100001'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '05EAM_M100002'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '05EAM_M100003'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '05EAM_M100004'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '05EAM_M100005'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '05GZA_E100002'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '05GZA_E100008'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '05GZA_E100015'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '05GZA_E100016'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '05GZA_E100017'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '05GZA_E100018'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '05GZA_E100019'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '05GZA_E100020'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '05GZA_M100001'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '05GZA_M100004'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '05GZA_M100005'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '05GZA_M100006'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '05GZA_M100007'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '05GZA_M100010'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '05GZA_M100011'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '05GZA_M100012'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '05GZA_M100013'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '05GZA_M100014'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '05GZA_R100003'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '05GZA_R100009'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '08EZ_M100027'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '08EZ_M100028'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '08EZ_M100029'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '08EZ_M100030'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '08EZ_M100031'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '08EZ_M100032'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '08LE100538'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '08LM100438'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '08LM100444'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '08LM100457'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '08LM100466'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = '08LM100501'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOPM_M100285'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOPM_M100286'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOPM_M100287'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOPM_M100288'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOPM_M100289'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOPM_M100290'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOPM_M100291'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOPM_M100293'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOPM_M100294'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOPM_M100295'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOPM_M100296'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOPM_M100297'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOPM_M100298'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOPM_R100014'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOPM_R100080'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOPM_R100097'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOPM_R100111'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOPM_R100282'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOPM_R100283'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BPMP_M100001'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BT _E101654'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BT _M101657'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BTEM102030'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BTT_M101659'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BTT_R101658'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BUGE100629'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BUGE100661'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BUGE100670'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BUGE100671'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BUGE100673'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BUGE100674'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BUGE100677'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BUGE100687'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BUGE100689'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BUGM100390'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BUGM100400'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BUGM100421'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BUGM100583'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BUGM100584'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BUGM100585'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BUGM100586'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BUGM100596'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BUGM100597'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BUGM100598'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BUGM100599'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BUGM100600'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BUGM100601'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BUGM100602'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BUGM100603'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BUGM100604'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BUGM100605'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BUGM100606'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BUGM100607'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BUGM100608'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BUGM100609'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BUGM100610'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BUGM100611'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BUGM100612'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BUGM100613'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BUGM100614'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BUGM100615'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BUGM100616'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BUGM100658'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BUGM100659'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BUGM100666'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BUGM100672'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BUGM100686'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BUGM100688'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BUGM100702'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BUGM100721'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BUGM100725'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BUGM100796'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BUGM100908'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BUGM100977'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BUGM100979'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BUGM100980'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BUGM100984'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BUGM101010'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BUGM101016'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BUGM101054'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BUGM101055'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BUGM102533'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BUGM102552'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BUGR100375'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BUGR100397'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BUGR100398'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BUGR100423'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BUGR100668'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BUGR100800'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BUG_1_M100302'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BUG_1_M100303'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BUG_1_M100981'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BUG_1_M101047'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BUG_1_M101072'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BUG_1_M101190'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BUG_AAR_E100104'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BUG_AAR_E100112'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BUG_AAR_E100407'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BUG_AAR_E100409'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BUG_AAR_E100542'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BUG_AAR_M100105'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BUG_AAR_M100109'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BUG_AAR_M100110'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BUG_AAR_M100137'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BUG_AAR_M100138'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BUG_AAR_M100139'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BUG_AAR_M100140'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BUG_AAR_M100141'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BUG_AAR_M100162'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_E100289'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_E100290'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_E100313'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_E100314'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_E100317'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_E100318'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_E100323'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_E100325'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_E100354'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_E100363'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_E100365'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_E100369'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_E100372'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_E100375'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_E100378'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_E100381'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100251'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100252'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100253'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100255'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100256'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100257'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100258'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100259'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100260'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100261'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100262'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100263'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100264'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100265'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100266'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100267'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100268'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100269'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100272'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100275'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100277'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100281'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100283'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100284'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100285'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100286'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100287'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100288'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100294'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100295'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100296'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100297'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100298'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100299'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100300'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100301'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100302'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100304'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100305'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100306'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100307'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100308'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100309'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100311'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100312'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100315'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100316'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100319'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100320'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100321'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100324'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100326'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100327'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100328'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100329'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100330'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100331'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100332'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100333'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100334'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100335'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100336'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100337'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100338'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100339'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100340'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100341'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100342'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100343'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100345'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100346'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100347'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100348'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100349'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100350'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100351'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100352'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100355'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100356'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100357'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100358'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100359'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100360'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100361'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100362'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100364'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100366'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100367'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100368'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100371'
+ORDER BY new_tms_audits_test."createdAt" DESC
+LIMIT 1000;
+
+SELECT * FROM new_tms_audits_test
+WHERE reference_number = 'BOBO_M100374'
+ORDER BY new_tms_audits_test."createdAt" ASC
+LIMIT 1000;

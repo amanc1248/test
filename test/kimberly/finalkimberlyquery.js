@@ -1,0 +1,36 @@
+db.loads.bulkWrite([
+    {
+        updateMany:{
+            filter:{
+                "carrier":ObjectId("63f93765625de015c40bf697"),
+                "reference_number":{$in:[
+                    "KPRO_R74703",
+                    "KPRO_R74793",
+                    "KPRO_R74705",
+                    "KPRO_B74918",
+                    "KPRO_R74792",
+                    "KPRO_R74790",
+                    "KPRO_R74855",
+                    "KPRO_R74702",
+                    "KPRO_R74854",
+                    "KPRO_R74879",
+                    "KPRO_R74856",
+                    "KPRO_R74789",
+                    "KPRO_R74794",
+                    "KPRO_R74706",
+                    "KPRO_R74852",
+                    "KPRO_R74857",
+                    "KPRO_R74791",
+                    "KPRO_R74707",
+                    "KPRO_R74704",
+                    "KPRO_R74853",
+                  ]}
+            },
+            update: {
+                $set:{
+                    "paymentHistory.0.Id":"2CA5CC-1695398358"
+                }
+            }
+        }
+    }
+])

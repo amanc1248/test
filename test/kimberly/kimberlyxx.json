@@ -1,0 +1,404 @@
+[
+  {
+    "updateMany": {
+      "filter": {
+        "carrier": ObjectId("63f93765625de015c40bf697"),
+        "reference_number": {
+          "$in": [
+            "KPRO_R74703",
+            "KPRO_R74793",
+            "KPRO_R74705",
+            "KPRO_B74918",
+            "KPRO_R74792",
+            "KPRO_R74790",
+            "KPRO_R74855",
+            "KPRO_R74702",
+            "KPRO_R74854",
+            "KPRO_R74879",
+            "KPRO_R74856",
+            "KPRO_R74789",
+            "KPRO_R74794",
+            "KPRO_R74706",
+            "KPRO_R74852",
+            "KPRO_R74857",
+            "KPRO_R74791",
+            "KPRO_R74707",
+            "KPRO_R74704",
+            "KPRO_R74853"
+          ]
+        }
+      },
+      "update": { "$set": { "paymentHistory.0.Id": "2CA5CC-1695398358" } }
+    }
+  },
+  {
+    "updateMany": {
+      "filter": {
+        "carrier": ObjectId("63f93765625de015c40bf697"),
+        "reference_number": {
+          "$in": ["KPRO_M71632", "KPRO_M71556", "KPRO_M71633", "KPRO_M71634"]
+        }
+      },
+      "update": { "$set": { "paymentHistory.0.Id": "2BC292-1689026209" } }
+    }
+  },
+  {
+    "updateMany": {
+      "filter": {
+        "carrier": ObjectId("63f93765625de015c40bf697"),
+        "reference_number": { "$in": ["KPRO_M73658"] }
+      },
+      "update": { "$set": { "paymentHistory.0.Id": "2C32F3-1694603090" } }
+    }
+  },
+  {
+    "updateMany": {
+      "filter": {
+        "carrier": ObjectId("63f93765625de015c40bf697"),
+        "reference_number": {
+          "$in": ["KPRO_E72075", "KPRO_E72002", "KPRO_E72086"]
+        }
+      },
+      "update": { "$set": { "paymentHistory.0.Id": "2BC292-1689026209" } }
+    }
+  },
+  {
+    "updateMany": {
+      "filter": {
+        "carrier": ObjectId("63f93765625de015c40bf697"),
+        "reference_number": {
+          "$in": [
+            "KPRO_R74731",
+            "KPRO_R74733",
+            "KPRO_R74730",
+            "KPRO_R74728",
+            "KPRO_R74732",
+            "KPRO_R74729"
+          ]
+        }
+      },
+      "update": { "$set": { "paymentHistory.0.Id": "2CA5CC-1695398358" } }
+    }
+  },
+  {
+    "updateMany": {
+      "filter": {
+        "carrier": ObjectId("63f93765625de015c40bf697"),
+        "reference_number": {
+          "$in": ["KPRO_M71847", "KPRO_M71825", "KPRO_M71848"]
+        }
+      },
+      "update": { "$set": { "paymentHistory.0.Id": "2BC292-1689026209" } }
+    }
+  },
+  {
+    "updateMany": {
+      "filter": {
+        "carrier": ObjectId("63f93765625de015c40bf697"),
+        "reference_number": { "$in": ["KPRO_M73613"] }
+      },
+      "update": { "$set": { "paymentHistory.0.Id": "2C8A0C-1694749308" } }
+    }
+  },
+  {
+    "updateMany": {
+      "filter": {
+        "carrier": ObjectId("63f93765625de015c40bf697"),
+        "reference_number": { "$in": ["KPRO_E73723"] }
+      },
+      "update": { "$set": { "paymentHistory.0.Id": "2C5423-1694666384" } }
+    }
+  },
+  {
+    "updateMany": {
+      "filter": {
+        "carrier": ObjectId("63f93765625de015c40bf697"),
+        "reference_number": {
+          "$in": ["KPRO_M72087", "KPRO_M72051", "KPRO_M72049", "KPRO_M72050"]
+        }
+      },
+      "update": { "$set": { "paymentHistory.0.Id": "2BC292-1689026209" } }
+    }
+  },
+  {
+    "updateMany": {
+      "filter": {
+        "carrier": ObjectId("63f93765625de015c40bf697"),
+        "reference_number": { "$in": ["KPRO_M72818"] }
+      },
+      "update": { "$set": { "paymentHistory.0.Id": "2C826F-1694690419" } }
+    }
+  },
+  {
+    "updateMany": {
+      "filter": {
+        "carrier": ObjectId("63f93765625de015c40bf697"),
+        "reference_number": { "$in": ["KPRO_M73254"] }
+      },
+      "update": { "$set": { "paymentHistory.0.Id": "2C6A1F-1694679491" } }
+    }
+  },
+  {
+    "updateMany": {
+      "filter": {
+        "carrier": ObjectId("63f93765625de015c40bf697"),
+        "reference_number": {
+          "$in": ["KPRO_M71460", "KPRO_M71420", "KPRO_M71461"]
+        }
+      },
+      "update": { "$set": { "paymentHistory.0.Id": "2BC292-1689026209" } }
+    }
+  },
+  {
+    "updateMany": {
+      "filter": {
+        "carrier": ObjectId("63f93765625de015c40bf697"),
+        "reference_number": { "$in": ["KPRO_M71679", "KPRO_M71780"] }
+      },
+      "update": { "$set": { "paymentHistory.0.Id": "2BC292-1689026209" } }
+    }
+  },
+  {
+    "updateMany": {
+      "filter": {
+        "carrier": ObjectId("63f93765625de015c40bf697"),
+        "reference_number": { "$in": ["KPRO_E72154", "KPRO_E72177"] }
+      },
+      "update": { "$set": { "paymentHistory.0.Id": "2BC292-1689026209" } }
+    }
+  },
+  {
+    "updateMany": {
+      "filter": {
+        "carrier": ObjectId("63f93765625de015c40bf697"),
+        "reference_number": {
+          "$in": [
+            "KPRO_E72334",
+            "KPRO_E72487",
+            "KPRO_E72333",
+            "KPRO_E72337",
+            "KPRO_E72332",
+            "KPRO_M71820"
+          ]
+        }
+      },
+      "update": { "$set": { "paymentHistory.0.Id": "2BC10D-1689025278" } }
+    }
+  },
+  {
+    "updateMany": {
+      "filter": {
+        "carrier": ObjectId("63f93765625de015c40bf697"),
+        "reference_number": { "$in": ["KPRO_M71473", "KPRO_M71524"] }
+      },
+      "update": { "$set": { "paymentHistory.0.Id": "2BC292-1689026209" } }
+    }
+  },
+  {
+    "updateMany": {
+      "filter": {
+        "carrier": ObjectId("63f93765625de015c40bf697"),
+        "reference_number": { "$in": ["KPRO_M71544", "KPRO_M71592"] }
+      },
+      "update": { "$set": { "paymentHistory.0.Id": "2BC292-1689026209" } }
+    }
+  },
+  {
+    "updateMany": {
+      "filter": {
+        "carrier": ObjectId("63f93765625de015c40bf697"),
+        "reference_number": {
+          "$in": ["KPRO_E71673", "KPRO_E71746", "KPRO_E71675", "KPRO_E71779"]
+        }
+      },
+      "update": { "$set": { "paymentHistory.0.Id": "2BC292-1689026209" } }
+    }
+  },
+  {
+    "updateMany": {
+      "filter": {
+        "carrier": ObjectId("63f93765625de015c40bf697"),
+        "reference_number": { "$in": ["KPRO_E72118", "KPRO_E72121"] }
+      },
+      "update": { "$set": { "paymentHistory.0.Id": "2BC292-1689026209" } }
+    }
+  },
+  {
+    "updateMany": {
+      "filter": {
+        "carrier": ObjectId("63f93765625de015c40bf697"),
+        "reference_number": {
+          "$in": ["KPRO_E71896", "KPRO_E71897", "KPRO_E71911"]
+        }
+      },
+      "update": { "$set": { "paymentHistory.0.Id": "2BC292-1689026209" } }
+    }
+  },
+  {
+    "updateMany": {
+      "filter": {
+        "carrier": ObjectId("63f93765625de015c40bf697"),
+        "reference_number": {
+          "$in": ["KPRO_M71677", "KPRO_M71762", "KPRO_M71671"]
+        }
+      },
+      "update": { "$set": { "paymentHistory.0.Id": "2BC292-1689026209" } }
+    }
+  },
+  {
+    "updateMany": {
+      "filter": {
+        "carrier": ObjectId("63f93765625de015c40bf697"),
+        "reference_number": {
+          "$in": ["KPRO_E72422", "KPRO_E72421", "KPRO_E72420"]
+        }
+      },
+      "update": { "$set": { "paymentHistory.0.Id": "2BC10D-1689025278" } }
+    }
+  },
+  {
+    "updateMany": {
+      "filter": {
+        "carrier": ObjectId("63f93765625de015c40bf697"),
+        "reference_number": { "$in": ["KPRO_M71761", "KPRO_M71758"] }
+      },
+      "update": { "$set": { "paymentHistory.0.Id": "2BC292-1689026209" } }
+    }
+  },
+  {
+    "updateMany": {
+      "filter": {
+        "carrier": ObjectId("63f93765625de015c40bf697"),
+        "reference_number": {
+          "$in": ["KPRO_E71612", "KPRO_E71611", "KPRO_E71609", "KPRO_E71610"]
+        }
+      },
+      "update": { "$set": { "paymentHistory.0.Id": "2BC292-1689026209" } }
+    }
+  },
+  {
+    "updateMany": {
+      "filter": {
+        "carrier": ObjectId("63f93765625de015c40bf697"),
+        "reference_number": {
+          "$in": ["KPRO_R72354", "KPRO_R72104", "KPRO_R72353", "KPRO_R72068"]
+        }
+      },
+      "update": { "$set": { "paymentHistory.0.Id": "2BC10D-1689025278" } }
+    }
+  },
+  {
+    "updateMany": {
+      "filter": {
+        "carrier": ObjectId("63f93765625de015c40bf697"),
+        "reference_number": { "$in": ["KPRO_M71472", "KPRO_M71505"] }
+      },
+      "update": { "$set": { "paymentHistory.0.Id": "2BC292-1689026209" } }
+    }
+  },
+  {
+    "updateMany": {
+      "filter": {
+        "carrier": ObjectId("63f93765625de015c40bf697"),
+        "reference_number": { "$in": ["KPRO_M71939", "KPRO_M71914"] }
+      },
+      "update": { "$set": { "paymentHistory.0.Id": "2BC292-1689026209" } }
+    }
+  },
+  {
+    "updateMany": {
+      "filter": {
+        "carrier": ObjectId("63f93765625de015c40bf697"),
+        "reference_number": {
+          "$in": ["KPRO_R74708", "KPRO_B74950", "KPRO_R74734"]
+        }
+      },
+      "update": { "$set": { "paymentHistory.0.Id": "2CA5CC-1695398358" } }
+    }
+  },
+  {
+    "updateMany": {
+      "filter": {
+        "carrier": ObjectId("63f93765625de015c40bf697"),
+        "reference_number": {
+          "$in": ["KPRO_E71546", "KPRO_E71547", "KPRO_E71575"]
+        }
+      },
+      "update": { "$set": { "paymentHistory.0.Id": "2BC292-1689026209" } }
+    }
+  },
+  {
+    "updateMany": {
+      "filter": {
+        "carrier": ObjectId("63f93765625de015c40bf697"),
+        "reference_number": { "$in": ["KPRO_M72895"] }
+      },
+      "update": { "$set": { "paymentHistory.0.Id": "2C88C9-1694749240" } }
+    }
+  },
+  {
+    "updateMany": {
+      "filter": {
+        "carrier": ObjectId("63f93765625de015c40bf697"),
+        "reference_number": { "$in": ["KPRO_M73543"] }
+      },
+      "update": { "$set": { "paymentHistory.0.Id": "2C751B-1694685283" } }
+    }
+  },
+  {
+    "updateMany": {
+      "filter": {
+        "carrier": ObjectId("63f93765625de015c40bf697"),
+        "reference_number": {
+          "$in": ["KPRO_B74953", "KPRO_B74954", "KPRO_B74951", "KPRO_B74952"]
+        }
+      },
+      "update": { "$set": { "paymentHistory.0.Id": "2CA5CC-1695398358" } }
+    }
+  },
+  {
+    "updateMany": {
+      "filter": {
+        "carrier": ObjectId("63f93765625de015c40bf697"),
+        "reference_number": { "$in": ["KPRO_E71595", "KPRO_E71639"] }
+      },
+      "update": { "$set": { "paymentHistory.0.Id": "2BC292-1689026209" } }
+    }
+  },
+  {
+    "updateMany": {
+      "filter": {
+        "carrier": ObjectId("63f93765625de015c40bf697"),
+        "reference_number": { "$in": ["KPRO_E72418"] }
+      },
+      "update": { "$set": { "paymentHistory.0.Id": "2C5A80-1694666606" } }
+    }
+  },
+  {
+    "updateMany": {
+      "filter": {
+        "carrier": ObjectId("63f93765625de015c40bf697"),
+        "reference_number": { "$in": ["KPRO_E71666", "KPRO_E71668"] }
+      },
+      "update": { "$set": { "paymentHistory.0.Id": "2BC292-1689026209" } }
+    }
+  },
+  {
+    "updateMany": {
+      "filter": {
+        "carrier": ObjectId("63f93765625de015c40bf697"),
+        "reference_number": { "$in": ["KPRO_E72331"] }
+      },
+      "update": { "$set": { "paymentHistory.0.Id": "2C8134-1694690352" } }
+    }
+  },
+  {
+    "updateMany": {
+      "filter": {
+        "carrier": ObjectId("63f93765625de015c40bf697"),
+        "reference_number": { "$in": ["KPRO_E71845", "KPRO_E71844"] }
+      },
+      "update": { "$set": { "paymentHistory.0.Id": "2BC292-1689026209" } }
+    }
+  }
+]

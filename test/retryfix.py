@@ -1,0 +1,103 @@
+import psycopg2
+import requests
+import jwt
+import json
+from datetime import datetime, timedelta
+
+# Database connection parameters
+db_params = {
+    'dbname': 'tsdb',
+    'user': 'tsdbadmin',
+    'password': 'Ywl9!2V-60kWlU',
+    'host': 'k37pc26aon.p5o3xdwhsl.vpc.tsdb.forge.timescale.com',
+    'port': '5432'
+}
+
+# Query parameters
+carrier_id = '654a747974b973153ca273e0'
+event_type = 'load#routing_update'
+state = 'PENDING'
+start_time = '2024-08-03 03:15:00'
+end_time = '2024-08-05 20:15:00'
+
+# JWT parameters
+customer_webhook_url = 'http://localhost:7001/v1/webhook/trigger-webhook'
+
+# Event types array
+event_types = [
+    'load_chassis_pickup', 'load_pull_container', 'load_drop_container',
+    'load_hook_container', 'load_deliver_load', 'load_return_container',
+    'load_chassis_termination'
+]
+
+# Connect to the database
+conn = psycopg2.connect(**db_params)
+cursor = conn.cursor()
+
+# Execute the query
+query = """
+SELECT "carrier", "webhookData"
+FROM public.carrier_webhook_audit 
+WHERE "carrier" = %s
+  AND "eventType" = %s
+  AND "state" = %s
+  AND "createdAt" BETWEEN %s AND %s
+  LIMIT 100;
+"""
+cursor.execute(query, (carrier_id, event_type, state, start_time, end_time))
+
+# Fetch all rows
+rows = cursor.fetchall()
+
+# Process each row
+for row in rows:
+    carrier = row[0]  # Assuming carrier is the first column
+    webhook_data_str = row[1]  # Assuming webhookData is the second column
+    print(webhook_data_str)
+    
+    # Parse webhookData JSON string to a dictionary
+    webhook_data = json.loads(webhook_data_str)
+
+    # Extract data from webhookData with default values if keys are missing
+    old_data = webhook_data.get('oldData', {})
+    new_data = webhook_data.get('newData', {})
+    is_remove_field = webhook_data.get('isRemoveField', False)
+    webhook_key = webhook_data.get('webhookKey', '')
+
+    # Check if webhook_key is available
+    if not webhook_key:
+        print("Error: 'webhookKey' is missing in webhookData.")
+        continue
+
+    # Prepare the JWT payload with expiration time
+    jwt_payload = {
+        'carrier': carrier,
+        'exp': datetime.utcnow() + timedelta(hours=1)  # Token expires in 1 hour
+    }
+
+    # Generate the token
+    token = jwt.encode(jwt_payload, webhook_key, algorithm='HS256')
+
+    # Loop through each event type and make the API call
+    for event in event_types:
+        # Prepare the API payload
+        payload = {
+            'carrier': carrier,
+            'eventTypes': [event],
+            'oldData': old_data,
+            'newData': new_data,
+            'isRemoveField': is_remove_field
+        }
+
+        # Prepare the API call
+        headers = {
+            'authorization': f'bearer {token}'
+        }
+        response = requests.post(customer_webhook_url, headers=headers, json=payload)
+
+        # Print response (for debugging)
+        print(f"Event: {event} - Status Code: {response.status_code}, Response: {response.text}")
+
+# Close the database connection
+cursor.close()
+conn.close()
